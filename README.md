@@ -1,5 +1,5 @@
-<a href="https://aimeos.org/">
-    <img src="https://styles.redditmedia.com/t5_30tmh/styles/bannerBackgroundImage_dvex47b9l3g61.jpg?format=pjpg&s=2e469a7172684dcbe60b8c09493af6e89c5638d1" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+<a href="https://www.reddit.com/r/TwoSentenceHorror/">
+    <img src="https://styles.redditmedia.com/t5_30tmh/styles/bannerBackgroundImage_dvex47b9l3g61.jpg?format=pjpg&s=2e469a7172684dcbe60b8c09493af6e89c5638d1" alt="Two Sentence Horror banner" title="Two Sentence Horror" align="right" height="60" />
 </a>
 
 # Two Sentence Horror LM
